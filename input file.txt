@@ -1,0 +1,23 @@
+Tmax = 160
+Cmax = 9500
+City Coordinates:
+0 950.5 2500.4 Delhi
+1 803.8 2312.3 Jaipur
+2 471.8 1882.2 Ahmedabad
+3 503.4 1445.8 Mumbai
+4 604.5 1384.4 Pune
+5 990.3 770.8 Bengaluru
+6 1266.5 783.1 Chennai
+7 1082.4 1258.8 Hyderabad
+8 2101.8 1832.4 Kolkata
+9 1839.7 1580.7 Bhubaneswar
+10 1570.8 1292.2 Visakhapatnam
+11 1144.5 1674.7 Nagpur
+12 971.5 1908.4 Bhopal
+13 1336.2 2305.0 Lucknow
+14 1768.8 2166.5 Patna
+15 2449.9 2227.4 Guwahati
+16 853.3 434.7 Kochi
+17 922.4 279.1 Thiruvananthapuram
+18 906.2 2734.8 Chandigarh
+19 701.6 3105.2 Srinagar

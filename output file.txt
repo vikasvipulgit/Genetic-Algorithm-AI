@@ -1,0 +1,56 @@
+Genetic Algorithm Results
+-------------------------
+Best Route:
+Delhi(0) -> Chandigarh(18) -> Srinagar(19) -> Ahmedabad(2) -> Mumbai(3) -> Pune(4) -> Bengaluru(5) -> Kochi(16) -> Thiruvananthapuram(17) -> Chennai(6) -> Hyderabad(7) -> Visakhapatnam(10) -> Bhubaneswar(9) -> Kolkata(8) -> Guwahati(15) -> Patna(14) -> Lucknow(13) -> Nagpur(11) -> Bhopal(12) -> Jaipur(1) -> Delhi(0)
+Total Distance (Cost): 9377.59
+Total Travel Time: 156.29 hours
+
+Constraints Status:
+Time <= Tmax : SATISFIED
+Cost <= Cmax : SATISFIED
+
+GA Parameters:
+Population Size = 120
+Generations = 500
+Crossover = Ordered Crossover (OX)
+Mutation = Swap Mutation
+Selection = Rank Selection
+
+City Index:
+0 = Delhi
+1 = Jaipur
+2 = Ahmedabad
+3 = Mumbai
+4 = Pune
+5 = Bengaluru
+6 = Chennai
+7 = Hyderabad
+8 = Kolkata
+9 = Bhubaneswar
+10 = Visakhapatnam
+11 = Nagpur
+12 = Bhopal
+13 = Lucknow
+14 = Patna
+15 = Guwahati
+16 = Kochi
+17 = Thiruvananthapuram
+18 = Chandigarh
+19 = Srinagar
+
+Performance Comparison
+---------------------------------------------------
+Method             Distance    Time      Fitness
+---------------------------------------------------
+Random Search      16260.56    271.01    0.58
+Hill Climbing      10540.28    175.67    0.89
+Genetic Algorithm  9377.59     156.29    1.00
+
+Convergence:
+Best Distance improved from 18844.46 -> 9377.59
+Best Time improved from 314.07 -> 156.29
+
+Visualization Generated:
+1. Best Route Plot
+2. Distance Convergence Graph
+3. Time Convergence Graph
