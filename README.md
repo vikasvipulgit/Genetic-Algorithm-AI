@@ -1,4 +1,4 @@
-# Route Optimization with a Genetic Algorithm (ACI Assignment 1 - PS15)
+# Route Optimization with a Genetic Algorithm 
 
 A permutation-based Genetic Algorithm that finds a near-optimal closed tour
 through *N* cities (visit each exactly once, return to the origin) while keeping
@@ -6,7 +6,6 @@ total travel **time** within `Tmax` and total **cost** within `Cmax`.
 The bundled input now uses approximate kilometre coordinates for Indian cities.
 
 > Course: M.Tech AIML - Artificial & Computational Intelligence (AIMLCZG557)
-> Group: G111
 
 ## Problem
 
